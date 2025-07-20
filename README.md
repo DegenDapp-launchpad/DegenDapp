@@ -1,29 +1,35 @@
-# DegenDapp
+DegenDapp is a community-first, no-code launchpad protocol designed to provide an alternative path for launching meme tokens — one that prioritizes clarity, fairness, and liquidity from the start.
 
-**DegenDapp** is a community-first, no-code launchpad protocol designed for meme token creators and degens alike.  
-Our goal is to eliminate the most persistent issue in meme token launches — premature liquidity removal — by enforcing transparent, trustless launch conditions.
+As the popularity of bonding curve-based launchpads continues to rise, we recognize their innovative approach and growing influence in the meme economy. However, we also believe there’s room for another model — one that's simple, transparent, and trustless, especially for communities that want assurance over speculation.
 
-## 🔥 Key Features
+💡 Why DegenDapp?
+DegenDapp introduces a fixed-price, liquidity-first launch model that empowers creators and degen investors alike:
 
-- 🛡️ **Auto-Liquidity or Refund**  
-  Funds are automatically added to liquidity, or refunded if softcap is unmet.
+✅ Clear Launch Conditions
+Set your softcap and hardcap from the start. Everyone knows the rules before the game begins. No hidden mechanics, no surprises.
 
-- 🎯 **Clear Launch Rules**  
-  Fixed price, predefined softcap/hardcap, no price manipulation.
+🔒 Predefined Token Price
+Forget unpredictable bonding curves. Token price is fixed, visible, and fair — giving early supporters the confidence to ape in without anxiety.
 
-- 🧱 **No-Code Deployment**  
-  Launch your token + sale in just a few clicks. No smart contract knowledge required.
+💥 Automatic Liquidity or Fair Refunds
+If the softcap is met, liquidity is added automatically to the DEX.
 
-- ⚡ **Built for Degens**  
-  Speed, fun, and freedom — without the rug.
+If it’s not, 100% of funds are refunded, without needing to trust any team or intermediary.
 
-## 🌐 Live Now on BNB Chain Testnet
-Website: [https://degend.app](https://degend.app)  
-Docs: [https://degendapp.gitbook.io/degendapp](https://degendapp.gitbook.io/degendapp)
+🛠 Built for Degens, by Degens
+Whether you're:
 
-## 📢 Socials
-- X: [https://x.com/dapp_degen7979](https://x.com/dapp_degen7979)  
-- Discord: [https://discord.gg/Xn4pHqTZDK](https://discord.gg/Xn4pHqTZDK)
+a meme coin visionary,
 
-## 📄 License
-MIT
+a builder with zero coding skills,
+
+or just someone tired of rugs and chaos,
+
+DegenDapp gives you a no-bullshit way to launch or support tokens — where community and transparency come first.
+
+We're not here to replace other models.
+We're here to give you a choice.
+
+Let the memes fly.
+Let the people decide.
+Let DegenDapp open the gate.
